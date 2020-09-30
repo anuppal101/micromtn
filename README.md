@@ -1,4 +1,4 @@
-Logr
+Logr - AN amazing website please try it out
 ====
  - - -
 
